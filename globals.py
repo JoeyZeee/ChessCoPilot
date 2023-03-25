@@ -1,0 +1,17 @@
+global lichess_client
+global startdate
+global enddate
+global username
+global lichess_account
+global rating_history
+global public_data
+global gms
+global games
+global cur_game_pgn
+global num_games
+global cur_game
+global cur_move
+global total_moves
+global chess_game
+global board_img
+global svg_results
